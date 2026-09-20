@@ -19,7 +19,7 @@ The exercises include a `Dog` tuple model, a recursive quicksort, staircase and 
 Install GHC, then load the source file in GHCi:
 
 ```sh
-ghci HaskellTasks.hs
+ghci Exercises.hs
 ```
 
 Functions can then be evaluated interactively, for example:
@@ -31,7 +31,7 @@ flagpattern 9 1
 nsplit [1,2,3,0,4,5,0,0,7,8,9,0] 0
 ```
 
-There is no Cabal or Stack project: all exercises live in the single `HaskellTasks.hs` source file.
+There is no Cabal or Stack project: all exercises live in the single `Exercises.hs` source file.
 
 ## Status
 
